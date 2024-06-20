@@ -1,0 +1,3 @@
+﻿  file_term.cpp
+C:\Users\Caner\Desktop\TermProject\Code\file_term\file_term.cpp(23,5): warning C4996: 'MD5': Since OpenSSL 3.0
+  file_term.vcxproj -> C:\Users\Caner\Desktop\TermProject\Code\file_term\x64\Debug\file_term.exe

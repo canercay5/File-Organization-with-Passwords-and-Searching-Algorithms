@@ -1,0 +1,2 @@
+C:\Users\Caner\Desktop\File_Term_Project - C++\Code\file_term\x64\Debug\file_term.exe
+C:\Users\Caner\Desktop\TermProject\Code\file_term\x64\Debug\file_term.exe
